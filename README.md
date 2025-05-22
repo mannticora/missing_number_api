@@ -24,7 +24,7 @@ La API expone un endpoint que:
 * 🐍 **Python 3.11**
 * 🌐 **Flask 2.3.2** (framework para crear APIs REST)
 * 🧪 Postman o cURL (para pruebas)
-* 💻 IntelliJ IDEA (o cualquier editor compatible)
+* 💻 Pycharm (o cualquier editor compatible)
 
 ---
 
