@@ -2,7 +2,7 @@
 
 ## 📘 README – Missing Number API
 
-### 🧩 Descripción
+### Descripción
 
 **Missing Number API** es una aplicación web desarrollada con **Python 3.11** y **Flask**, que permite simular la extracción de un número del conjunto de los primeros 100 números naturales y calcular cuál fue el número faltante.
 
